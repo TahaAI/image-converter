@@ -36,6 +36,7 @@ A sleek and easy-to-use desktop application built with **CustomTkinter** for con
 1. Clone the repository:
 ```bash
 git clone https://github.com/TahaAI/image-converter
+```
 ---
 
 ## License / Copyright
