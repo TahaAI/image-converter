@@ -27,16 +27,9 @@ A sleek and easy-to-use desktop application built with **CustomTkinter** for con
 
 ## Download
 
-[Click here]()
+[Click here](https://github.com/TahaAI/image-converter/releases/download/Image-converter/converter.exe)
 
 
----
-
-### Using the Python Source
-1. Clone the repository:
-```bash
-git clone https://github.com/TahaAI/image-converter
-```
 ---
 
 ## License / Copyright
